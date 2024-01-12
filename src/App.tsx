@@ -81,7 +81,7 @@ function App() {
             id="specialCharInput"
             onChange={() => setSpecialCharsAllowed((prev) => !prev)}
           />
-          <label>Numbers</label>
+          <label>Special Characters</label>
         </div>
       </div>
     </>
